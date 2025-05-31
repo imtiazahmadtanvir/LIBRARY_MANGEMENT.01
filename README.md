@@ -13,7 +13,7 @@ This Library Management System is a desktop-based application built with **Java 
 
 ## 🚀 Features
 
-- 📖 **Add, Update, Delete Books**
+- 📖 **Add, Update and Delete Books**
 - 👥 **Register and Manage Library Users**
 - 🔄 **Issue and Return Books**
 - 📅 **Due Date & Fine Calculation**
